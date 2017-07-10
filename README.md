@@ -1,2 +1,2 @@
 # NoteApue
-All the programs executed while reading this book.
+All the programs met while reading this book.
